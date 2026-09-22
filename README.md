@@ -18,7 +18,7 @@ Master your workflow and secure your digital life with this powerful toolkit! Th
 📊 **BatteryReporter** - Take full control of your hardware's energy efficiency.
 
 
-![Star Password Manager](https://github.com/Mahdi-Shahrezaei/StarPasswordManager-AccessGuard-PomodoroPro-BatteryReporter/blob/main/SPM1.png)
+![Star Password Manager](https://github.com/Mahdi-Shahrezaei/StarPasswordManager-AccessGuard-PomodoroPro-BatteryReporter/blob/main/SPM.png)
 ![AccessGuard](https://github.com/Mahdi-Shahrezaei/StarPasswordManager-AccessGuard-PomodoroPro-BatteryReporter/blob/main/Access-Guard1.png)![AccessGuard](https://github.com/Mahdi-Shahrezaei/StarPasswordManager-AccessGuard-PomodoroPro-BatteryReporter/blob/main/Access-Guard2.png)
 ![PomodoroPro](https://github.com/Mahdi-Shahrezaei/StarPasswordManager-AccessGuard-PomodoroPro-BatteryReporter/blob/main/PomodoroPro.png)
 
